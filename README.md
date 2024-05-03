@@ -9,4 +9,6 @@ Currently, two official plugins are available:
 
 # Eshop
 
-Eshop refers to an ecommerce platform, which allows individuals, creator, business or companies to buy and sell goods or services online through their own websites or other channels.
+Eshop refers to an ecommerce platform, which allows individuals, creator, business and companies to buy and sell goods or services online through their own websites or other channels.
+
+To check out the app, go through this link: https://eshop-platform.netlify.app/
